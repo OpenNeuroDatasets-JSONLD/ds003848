@@ -1,2 +1,4 @@
+1.0.1 2021-10-27
+  - changed gender to sex in participants.tsv
 1.0.0 2021-10-22
   - updated to current BIDS version
