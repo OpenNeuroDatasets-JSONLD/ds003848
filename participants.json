@@ -9,8 +9,8 @@
 		"Description": "age of the patient during the session",
 		"Units": "years"
 	},
-	"gender": {
-		"Description": "gender of the patient (male\/female\/unknown)",
+	"sex": {
+		"Description": "sex of the patient (male\/female\/unknown)",
 		"Levels": {
 			"male": "male",
 			"female": "female",
